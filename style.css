@@ -15,8 +15,8 @@
 
 /* En-tête */
 header {
-    background-color: #eb4c34;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
     padding: 15px 0;
 }
 
@@ -38,7 +38,7 @@ header {
 }
 
 .navbar a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
     font-weight: 500;
 }
